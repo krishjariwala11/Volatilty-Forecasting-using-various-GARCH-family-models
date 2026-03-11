@@ -1,6 +1,7 @@
 # Stock Volatility Forecasting Dashboard 📈
 
 🔗 Live Demo: [GARCH Volatility Model App](https://garch-krish.streamlit.app/)
+
 A premium Streamlit application to forecast stock market volatility using GARCH-family models (GARCH, EGARCH, GJR-GARCH).
 
 ## Features
